@@ -11,8 +11,8 @@ Demo: `16-09-2017 15:46`
 
 ### Or do these manually:
 
-Copy `date.py` to `~/.config/easyi3status/modules/`
-Add its configuration to your `config.yaml`
+1. Copy `date.py` to `~/.config/easyi3status/modules/`
+2. Add its configuration to your `config.yaml`
 
 ## Configuration
 
